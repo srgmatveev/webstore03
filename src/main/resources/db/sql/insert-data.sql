@@ -10,7 +10,7 @@ INSERT INTO PRODUCTS VALUES ('P1236', 'Nexus 7',
                       300,'Google','Tablet','New',1000,0,false);
 
 INSERT INTO CUSTOMERS VALUES (1, 'Сергей Матвеев',
-                     'Москва, пр-т Андропова, 35',false);
+                     'Москва, пр-т Сахарова, 98',false);
 
 INSERT INTO CUSTOMERS VALUES (2, 'Вася Кутепов',
                      'Мос. обл., Белые столбы, 35',true);
